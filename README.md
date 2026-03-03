@@ -11,7 +11,7 @@
 
 This repository contains all the practical lab sheets and SQL implementations for the **Database Management Systems Lab** course.
 
-The lab focuses on:
+The lab work focuses on:
 - ER Diagrams
 - Relational Schema Design
 - DDL (Data Definition Language)
